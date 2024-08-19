@@ -6,9 +6,9 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 software engineering systematically applies engineering principles, methods, and tools tpo develop and maintain high-quality software systems
-software engineering enables creation of software applications and systems that power various aspects of modern life
-
+software engineering enables creation of software applications and systems that power various aspects of modern life 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
  Emergence of Agile Methodology- Agile transformed the software development process by enabling teams to respond more quickly to changing requirements and deliver higher-quality software faster. It has become the de facto standard for many software projects, especially in environments where rapid innovation and adaptation are critical.
  Advent of Object-Oriented Programming- OOP revolutionized software engineering by enabling the development of complex software systems in a more manageable and scalable way. Languages like C++, Java, and Python, which support OOP, have become dominant in the industry
   Introduction of Structured Programming- Structured programming laid the foundation for modern programming practices and languages, such as C and Pascal, which incorporate these principles to promote code clarity and quality.
